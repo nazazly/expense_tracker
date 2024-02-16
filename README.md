@@ -32,8 +32,15 @@ This is the terminal when the program is runninng
 
 5. Enjoy the visual of how much you have spent on each category and your budget for the month!
 
+***Be sure to check out the demo clip in the file to see how to program runs!***
+
 # To note
 After the first input has been made in the terminal, an expenses.csv file will be created in the folder, listing out every transaction made for convience and accountability!
+
+# Key Takeaways
+1. Incorporating a csv file in the code for the first time.
+2. Used a calendar system to keep track of the current day of the month (for budget output).
+3. Had to use resources readily available online to keep updated on the best methods to use.
 
 # Contact
 If you have any questions or issues, feel free to contact me at aezz99@gmail.com
